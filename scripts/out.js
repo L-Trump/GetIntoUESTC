@@ -80,7 +80,7 @@ if (userText[0x1] = '8899') {
     while (!![]) {
         switch (_0x1afd7e[_0x44337e++]) {
             case '0':
-                document[_0x174b('0x6', 'gl[f')](_0x174b('0x7', 'DT07'))['innerHTML'] = '本科生';
+                document[_0x174b('0x6', 'gl[f')](_0x174b('0x7', 'DT07'))['innerHTML'] = '研究生 (硕士)';
                 continue;
             case '1':
                 document[_0x174b('0x9', '79a*')](_0x174b('0xa', 'V^n8'))[_0x174b('0xb', 'WFlI')] = _0x174b('0xc', 'rY@1') + (_0x1a50fe['getMonth']() > 0x8 ? String(_0x1a50fe[_0x174b('0xd', 'l]e[')]() + 0x1) : '0' + String(_0x1a50fe[_0x174b('0xe', 'WpVA')]() + 0x1)) + '-' + (_0x1a50fe[_0x174b('0xf', '!)8q')]() > 0x9 ? String(_0x1a50fe[_0x174b('0x10', '6kUP')]()) : '0' + String(_0x1a50fe[_0x174b('0x11', 'zwd(')]())) + '\x20' + (_0x1a50fe[_0x174b('0x12', '6kUP')]() > 0x9 ? String(_0x1a50fe[_0x174b('0x13', 'UGKh')]()) : '0' + String(_0x1a50fe[_0x174b('0x14', '1Ebz')]())) + ':' + (_0x1a50fe[_0x174b('0x15', 'nF%7')]() > 0x9 ? String(_0x1a50fe[_0x174b('0x16', 'OhyT')]()) : '0' + String(_0x1a50fe[_0x174b('0x17', 'gl[f')]())) + ':' + (_0x1a50fe[_0x174b('0x18', '@]qC')]() > 0x9 ? String(_0x1a50fe['getSeconds']()) : '0' + String(_0x1a50fe[_0x174b('0x19', 'V^n8')]()));
@@ -140,7 +140,7 @@ if (userText[0x1] = '8899') {
                 ;
                 continue;
             case '3':
-                document[_0x174b('0x2e', '1Ebz')]('userPasstext')[_0x174b('0x2f', 'RAbg')] = '本科用户，出校登记成功！';
+                document[_0x174b('0x2e', '1Ebz')]('userPasstext')[_0x174b('0x2f', 'RAbg')] = '研究生用户，出校登记成功！';
                 continue;
             case '4':
                 if (userText[0x0] != '') {
@@ -156,7 +156,7 @@ if (userText[0x1] = '8899') {
                 var _0x1a50fe = new Date();
                 continue;
             case '7':
-                document[_0x174b('0x41', 'OhyT')](_0x174b('0x42', '[IVF'))[_0x174b('0x43', 'RA7x')] = '2020-' + (_0x1a50fe['getMonth']() > 0x8 ? String(_0x1a50fe[_0x174b('0x44', 'g1bC')]() + 0x1) : '0' + String(_0x1a50fe[_0x174b('0x45', 'Ol(z')]() + 0x1)) + '-' + (_0x1a50fe[_0x174b('0x46', 'sbIb')]() > 0x9 ? String(_0x1a50fe['getDate']()) : '0' + String(_0x1a50fe[_0x174b('0x47', '[muE')]())) + '\x20' + (_0x1a50fe[_0x174b('0x48', 'B(XM')]() > 0x9 ? String(_0x1a50fe[_0x174b('0x49', 'K@Ab')]()) : '0' + String(_0x1a50fe[_0x174b('0x4a', 'NLm^')]())) + ':' + (_0x1a50fe['getMinutes']() > 0x9 ? String(_0x1a50fe['getMinutes']()) : '0' + String(_0x1a50fe['getMinutes']())) + ':' + (_0x1a50fe[_0x174b('0x4b', 'oX9N')]() > 0x9 ? String(_0x1a50fe[_0x174b('0x4c', 'YwVY')]()) : '0' + String(_0x1a50fe[_0x174b('0x4d', 'DT07')]()));
+                document[_0x174b('0x41', 'OhyT')](_0x174b('0x42', '[IVF'))[_0x174b('0x43', 'RA7x')] = '2021-' + (_0x1a50fe['getMonth']() > 0x8 ? String(_0x1a50fe[_0x174b('0x44', 'g1bC')]() + 0x1) : '0' + String(_0x1a50fe[_0x174b('0x45', 'Ol(z')]() + 0x1)) + '-' + (_0x1a50fe[_0x174b('0x46', 'sbIb')]() > 0x9 ? String(_0x1a50fe['getDate']()) : '0' + String(_0x1a50fe[_0x174b('0x47', '[muE')]())) + '\x20' + (_0x1a50fe[_0x174b('0x48', 'B(XM')]() > 0x9 ? String(_0x1a50fe[_0x174b('0x49', 'K@Ab')]()) : '0' + String(_0x1a50fe[_0x174b('0x4a', 'NLm^')]())) + ':' + (_0x1a50fe['getMinutes']() > 0x9 ? String(_0x1a50fe['getMinutes']()) : '0' + String(_0x1a50fe['getMinutes']())) + ':' + (_0x1a50fe[_0x174b('0x4b', 'oX9N')]() > 0x9 ? String(_0x1a50fe[_0x174b('0x4c', 'YwVY')]()) : '0' + String(_0x1a50fe[_0x174b('0x4d', 'DT07')]()));
                 continue;
         }
         break;
